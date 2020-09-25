@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ismaeldivita.chipnavigation:chip-navigation-bar:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd0f08a1a3555d9c005d96a9e27ae12b/jetified-chip-navigation-bar-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd0f08a1a3555d9c005d96a9e27ae12b/jetified-chip-navigation-bar-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ismaeldivita.chipnavigation/chip-navigation-bar/1.2.0/ee2a08e0ecad0824e9c18813ba5c1ff1205ba59f/chip-navigation-bar-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ismaeldivita.chipnavigation/chip-navigation-bar/1.2.0/bb86935bd1425b4977f823b014f79a3060e5b920/chip-navigation-bar-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
